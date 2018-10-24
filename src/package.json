@@ -1,7 +1,7 @@
 {
-  "name": "tsm",
+  "name": "3m",
   "version": "1.0.1",
-  "description": "tsm cmdline-src",
+  "description": "3m  cmdline-src",
   "main": "index.js",
   "license": "MIT",
   "dependencies": {
